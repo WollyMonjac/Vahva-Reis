@@ -24,7 +24,7 @@ Algne mäng on loodud Windowsi jaoks ning tugineb 2000. aastate alguse tehnoloog
 
 Kõik viis peatükki – sadam, Aafrika, džungel, Lihavõttesaar ja Antarktika – on algusest lõpuni läbimängitavad koos eestikeelse kõne, muusika ja minimängudega. Mängu saab juhtida arvutis hiire ja klaviatuuriga ning nutiseadmes ekraanil kuvatavate juhtnuppudega. Mängu seis salvestatakse brauserisse.
 
-Mängu saab proovida aadressil: https://claude.ai/artifact/FELScTQqxSZqL4Ex4QPC8W
+Mängu saab proovida aadressil: https://wollymonjac.github.io/Vahva-Reis/
 
 ## Juhtimine
 
